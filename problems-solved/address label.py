@@ -1,0 +1,12 @@
+name = input("enter your name: ")
+address = input("enter your address: ")
+city = input("enter your city: ")
+state = input("enter your state: ")
+pincode = input("enter your PIN code: ")
+
+print("address Label")
+print(name)
+print(address)
+print(city)
+print(state)
+print(pincode)
